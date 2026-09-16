@@ -61,8 +61,7 @@ git clone [https://github.com/your-username/movie-explorer.git](https://github.c
 cd movie-explorer
 ```
 3. Install dependencies:
-```npm install
-```
+```npm install```
 4. Run the development server:
 ```npm run dev```
 5. Open your browser and go to http://localhost:5173.
