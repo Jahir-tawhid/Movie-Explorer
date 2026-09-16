@@ -37,8 +37,8 @@ A responsive **Movie Explorer Application** built with React, Vite, and Tailwind
 ## 🏗️ Project Architecture & File Structure
 
 To maintain a clean and modular codebase, the application logic has been separated into components and custom hooks:
-
-````text
+```
+text
 src/
 │
 ├── components/
@@ -49,15 +49,20 @@ src/
 ├── movieLogic.js           # Custom hook managing states and API fetching
 ├── App.jsx                 # Main entry component linking views and layout
 └── main.jsx                # React DOM root render file
-
+```
 🚀 How to Run Locally
 1. Clone the repository:
-```git clone [https://github.com/your-username/movie-explorer.git](https://github.com/Jahir-tawhid/movie-explorer.git) ```
+```
+git clone [https://github.com/your-username/movie-explorer.git](https://github.com/Jahir-tawhid/movie-explorer.git)
+```
 
 2. Navigate to the project directory:
-```cd movie-explorer```
+```
+cd movie-explorer
+```
 3. Install dependencies:
-```npm install```
+```npm install
+```
 4. Run the development server:
 ```npm run dev```
 5. Open your browser and go to http://localhost:5173.
@@ -70,4 +75,4 @@ src/
 ---
 © 2026 MovieExplorer. All rights reserved.
 
-````
+
