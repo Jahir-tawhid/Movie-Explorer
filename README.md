@@ -67,12 +67,12 @@ cd movie-explorer
 5. Open your browser and go to http://localhost:5173.
 
 🌐 Live Deployment: 
-
-Live Demo Link: [movie-explorer-six-chi.vercel.app ](https://movie-explorer-six-chi.vercel.app/)   
 ---
-  E-mail: Jahirtawhid1988@gmail.com
+Live Demo Link: [movie-explorer-six-chi.vercel.app ](https://movie-explorer-six-chi.vercel.app/)   
 
-  Linkedin: www.linkedin.com/in/jahirtawhid
+E-mail: Jahirtawhid1988@gmail.com
+
+Linkedin: www.linkedin.com/in/jahirtawhid
 
 © License:
 ---
