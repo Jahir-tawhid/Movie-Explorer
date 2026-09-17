@@ -39,7 +39,7 @@ function App() {
             </p>
             <button
               onClick={() => setPageView("movies")}
-              className="bg-white text-indigo-950 font-semibold px-6 py-3 rounded-xl shadow-lg hover:bg-slate-100 transition"
+              className="bg-green-600 text-indigo-950 font-semibold px-6 py-3 rounded-xl shadow-lg hover:bg-slate-100 transition"
             >
               Explore Now
             </button>
