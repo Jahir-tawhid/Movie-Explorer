@@ -5,7 +5,7 @@ function ShowDetailsModal({ showInfo, dismissModal }) {
   return (
     // Dark background overlay
     <div className="fixed inset-0 bg-neutral-900 bg-opacity-70 flex justify-center items-center p-4 overflow-y-auto z-50">
-      {/* White modal box with scroll and max height */}
+      {/* White modal box with center alignment and scroll capability */}
       <div className="bg-white rounded-xl max-w-lg w-full p-6 relative my-auto max-h-[85vh] flex flex-col shadow-2xl">
         {/* Close button (top right) */}
         <button
