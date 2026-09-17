@@ -68,7 +68,7 @@ cd movie-explorer
 
 🌐 Live Deployment: 
 
-Live Demo Link: movie-explorer-six-chi.vercel.app    
+Live Demo Link: [movie-explorer-six-chi.vercel.app ](https://movie-explorer-six-chi.vercel.app/)   
 
 © License:
 ---
