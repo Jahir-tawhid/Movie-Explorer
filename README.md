@@ -71,6 +71,7 @@ cd movie-explorer
 Live Demo Link: [movie-explorer-six-chi.vercel.app ](https://movie-explorer-six-chi.vercel.app/)   
 
 E-mail: Jahirtawhid1988@gmail.com
+
 Linkedin: www.linkedin.com/in/jahirtawhid
 
 © License:
