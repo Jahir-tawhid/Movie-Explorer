@@ -77,7 +77,7 @@ Linkedin: www.linkedin.com/in/jahirtawhid
 © License:
 ---
 © 2026 MovieExplorer. All rights reserved. Built by Md. Jahirul Islam.
----
+
 
 # 🎬 Assignment: Movie Explorer
 
