@@ -66,7 +66,7 @@ cd movie-explorer
 ```npm run dev```
 5. Open your browser and go to http://localhost:5173.
 
-🌐 Live Deployment:
+🌐 Live Deployment: movie-explorer-six-chi.vercel.app
 ---
     Live Demo Link:
 
