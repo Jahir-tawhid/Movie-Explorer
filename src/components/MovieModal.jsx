@@ -6,11 +6,12 @@ function ShowDetailsModal({ showInfo, dismissModal }) {
     // Dark background overlay
     <div className="fixed inset-0 bg-neutral-900 bg-opacity-70 flex justify-center items-center p-4 overflow-y-auto z-50">
       {/* White modal box */}
-      <div className="bg-white rounded-xl max-w-lg w-full p-6 relative my-auto shadow-2xl">
+      <div className="bg-white rounded-xl max-w-lg w
+      -full p-6 relative my-auto max-h-[90vh] overflow-y-auto shadow-2xl">
         {/* Close button (top right) */}
         <button
           onClick={dismissModal}
-          className="absolute top-4 right-4 text-gray-400 hover:text-gray-900 font-bold text-xl"
+          className="absolute top-4 right-4 text-gray-400 hover:text-gray-900 font-bold text-xl z-10 bg-white/80 rounded-full px-2"
         >
           ✕
         </button>
