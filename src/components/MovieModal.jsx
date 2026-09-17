@@ -4,9 +4,9 @@ function ShowDetailsModal({ showInfo, dismissModal }) {
 
   return (
     // Dark background overlay
-    <div className="fixed inset-0 bg-neutral-900 bg-opacity-60 flex justify-center items-center p-4 z-50">
+    <div className="fixed inset-0 bg-neutral-900 bg-opacity-70 flex justify-center items-center p-4 overflow-y-auto z-50">
       {/* White modal box */}
-      <div className="bg-white rounded-xl max-w-lg w-full p-6 relative max-h-[90vh] overflow-y-auto shadow-2xl">
+      <div className="bg-white rounded-xl max-w-lg w-full p-6 relative my-auto shadow-2xl">
         {/* Close button (top right) */}
         <button
           onClick={dismissModal}
